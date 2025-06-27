@@ -1,4 +1,4 @@
-# Loja AV2 - API Spring Boot com Autenticação JWT
+# AV2 - API Spring Boot com Autenticação JWT
 
 Este projeto é uma API desenvolvida em Spring Boot com autenticação baseada em tokens JWT, utilizando Spring Security e banco de dados em memória H2. A aplicação contém endpoints para autenticação de usuários e acesso protegido a recursos.
 
@@ -28,7 +28,7 @@ Este projeto é uma API desenvolvida em Spring Boot com autenticação baseada e
 ### Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/loja-av2.git
+git clone https://github.com/seu-usuario/AV2-av2.git
 cd loja-av2/loja-av2
 ```
 
